@@ -32,6 +32,9 @@ Through this Application multiple peers can connect and have code discussions fo
 - [Peerjs](https://peerjs.com/) - Managing audio/video streams between clients in a group .
 - [CodeMirror](https://uiwjs.github.io/react-codemirror/) - The Code Editor component .
 
+### Future Scope
+In this projech their can be more features that can be added like chat application, screeen sharing and canvas drawing features which will make the collaboration even more interactive.
+
 ### Authors
 ### Ridhiman Dhariwal
 ### Pyanshi Jain
